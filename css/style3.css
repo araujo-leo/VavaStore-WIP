@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+.compra{
+    background-color: white;
+    margin-top: 2rem;
+}
+
+.header-venda{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px 20px 10px 20px;
+    border-bottom: 1px solid rgba(189, 189, 189, 0.9);
+}
+
+.header-venda h1{
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1em;
+    font-family: "Poppins", sans-serif;
+}
+
+.body-venda{
+    display: flex;
+    flex-direction: row;
+    min-height: 30vh;
+    align-items: center;
+
+    justify-content: space-between;
+}
+
+.img-produto img{
+    width: 10vw;
+    margin: 4rem;
+}
+
+.body-venda h3{
+    filter: opacity(0.5);
+    font-size: 1rem;
+}
+
+.produto-preco{
+    margin-right: 10%;
+}
+
+#nenhum-pedido-mensagem{
+    margin-top: 2rem;
+    text-align: center;
+}
