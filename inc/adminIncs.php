@@ -243,9 +243,9 @@
                 <i class='bx bx-user nav_icon'></i>
                 <span class="nav_name">Usuários</span>
             </a>
-            <a href="" class="nav_link">
-                <i class='bx bx-message-square-detail nav_icon'></i>
-                <span class="nav_name">Messages</span>
+            <a href="../admin/vendas.php" class="nav_link">
+                <i class='bx bx-shopping-bag nav_icon'></i>
+                <span class="nav_name">Vendas</span>
             </a>
             <a href="#" class="nav_link">
                 <i class='bx bx-bookmark nav_icon'></i>
